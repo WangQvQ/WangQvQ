@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=WangQvQ&rank=-?&theme=onedark&column=-1&no-frame=true&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=WangQvQ&rank=-?&theme=onedark&no-frame=true&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **WangQvQ/WangQvQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
